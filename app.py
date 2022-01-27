@@ -128,7 +128,7 @@ if customer_file is not None:
 
    # Convertir le dataframe en csv et le rendre téléchargeable
    df_csv = convert_df(customer_file)
-   st.success('Les segments ont pu être prédits et le fichier complété est téléchargeable ci-dessous')
+   st.success('Les probabilités ont pu être prédites et le fichier complété est téléchargeable ci-dessous')
    st.download_button('Fichier client complété', df_csv, file_name='fichier_client.csv')
 
 # Import du fichier test
