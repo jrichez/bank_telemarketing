@@ -1,0 +1,3 @@
+age,job,marital,education,default,housing,loan,contact,month,day_of_week,campaign,pdays,previous,poutcome,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed
+59,entrepreneur,married,professional.course,no,no,no,cellular,may,mon,1,999,0,nonexistent,1.1,93.994,-36.4,4.857,5191.0
+29,unemployed,single,basic.4y,no,yes,yes,telephone,nov,fri,1,9,1,success,-1.1,94.767,-50.8,1.028,4963.6
