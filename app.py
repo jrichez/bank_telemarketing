@@ -8,6 +8,7 @@ Created on Thu Jan 26 10:36:12 2022
 import streamlit as st
 import pandas as pd
 import numpy as np
+from lightgbm import LGBMClassifier
 import pickle
 
 # Head
